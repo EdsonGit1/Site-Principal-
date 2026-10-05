@@ -24,3 +24,6 @@ git push
 - `assets/images/referencia-layout.png`
 
 A imagem `referencia-layout.png` é apenas referência visual e não é carregada pela página.
+
+## Desafios Kaizen
+A página `desafios.html` inclui três jogos em JavaScript puro: Quiz Kaizen, Mini Sudoku 4x4 e Kaizen Flight (Canvas). Pontos, nível e recorde ficam no `localStorage` do navegador e não exigem cadastro ou servidor.
